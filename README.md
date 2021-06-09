@@ -1,2 +1,3 @@
 # Mini-Mike
-Mini sumô 500g
+
+- Categoria: Mini sumô 500g
